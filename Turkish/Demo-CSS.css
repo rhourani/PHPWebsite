@@ -1,0 +1,34 @@
+// CSS file
+body {
+	background-image: url(http://wallpaperlayer.com/img/2015/6/blue-leaves-background-8434-8757-hd-wallpapers.jpg);
+}
+
+div.carousel-inner > .item > img,
+div.carousel-inner > .item > a > img {
+	width: 100%;
+	margin: auto;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+#myImg {
+        border-radius: 5px;
+        cursor: pointer;
+        transition: 0.3s;
+    }
+    
+#myImg:hover {opacity: 0.7;}
