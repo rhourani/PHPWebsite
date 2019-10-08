@@ -4,7 +4,7 @@ A Blogger website that have a log-in Page and sign-in sign-up pages and database
 
 Have a comments section that need a registered user to use it,
 
-Its support Two language Arabic And English,
+Its support Two language Turkish And English,
 
 Uses Jquery for log-in processes,
 
